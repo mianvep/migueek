@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="155"
+   height="41"
+   viewBox="0 0 41.010416 10.847917"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="logo.svg"
+   inkscape:export-xdpi="18.747618"
+   inkscape:export-ydpi="18.747618"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.89441639"
+     inkscape:cx="403.05612"
+     inkscape:cy="-17.88876"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="9.486948"
+       y="9.486948"
+       width="573.16974"
+       height="140.72305"
+       id="rect402" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.06020241,0,0,0.09216656,8.4069332,-2.1932703)"
+       id="text400"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;font-family:Parchment;-inkscape-font-specification:Parchment;white-space:pre;shape-inside:url(#rect402);fill:#e6e6e6;stroke:none"><tspan
+         x="9.4863281"
+         y="115.6582"
+         id="tspan495"><tspan
+           style="font-weight:bold;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT, Bold'"
+           id="tspan493">migueek</tspan></tspan></text>
+    <rect
+       style="fill:#ececec;stroke:none;stroke-width:0.0640862"
+       id="rect772"
+       width="3.7246222"
+       height="10.847917"
+       x="0.10190618"
+       y="0.019092543"
+       ry="1.7181004"
+       rx="1.5695199" />
+    <rect
+       style="fill:#ececec;stroke:none;stroke-width:0.0640862"
+       id="rect772-1"
+       width="3.7246222"
+       height="10.847917"
+       x="4.3606157"
+       y="0.014566192"
+       ry="1.7181004"
+       rx="1.5695199" />
+  </g>
+</svg>
