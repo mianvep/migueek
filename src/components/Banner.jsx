@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import { ArrowDownCircle } from "react-bootstrap-icons";
 import imgs from "../imports/media.js";
-import cv from "../docs/Curriculum Miguel Vera.pdf";
+import cv from "../docs/MIGUEL_VERA_CV.pdf";
 import "animate.css";
 
 export const Banner = () => {
