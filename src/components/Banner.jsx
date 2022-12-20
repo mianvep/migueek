@@ -68,7 +68,7 @@ export const Banner = () => {
 							</span>
 						</h1>
 						<p>
-							I am a young engineer, technology developer and entrepreneur. I
+							I am a young mining engineer, technology developer and entrepreneur. I
 							adhere to the technological evolution and the solutions that etsa
 							can offer to humanity.
 						</p>
